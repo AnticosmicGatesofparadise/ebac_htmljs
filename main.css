@@ -1,0 +1,33 @@
+#campo-a {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+#campo-b {
+    padding: 15px;
+    display: block;
+}
+
+#concluir {
+    padding: 20px;
+    width: 150px;
+    background-color: #2ecc71;
+    color: #fff;
+    display: block;
+}
+
+.mensagem-correta{
+    background-color: rgb(72, 240, 6);
+    color: white;
+}
+.mensagem-errada{
+    background-color: red;
+    color: wheat;
+    
+    
+}
+input.error{
+    color:  red;
+    border-color: red;
+    outline-color: red;
+}
